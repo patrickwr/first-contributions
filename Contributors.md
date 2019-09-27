@@ -4048,6 +4048,7 @@ Stephan Sharpe
 - [Nico Belobrajdic](https://github.com/nicobelob)
 - [Arthur Ribeiro](https://github.com/devarthurribeiro)
 - [psaucoin](https://github.com/psaucoin)
+- [patrickwr](https://github.com/patrickwr)
 - [Tanis-02](https://github.com/Tanis-02)
 - [Dusan Pilipovic](https://github.com/razzil1)
 - [Akbar Mirza](https://github.com/akbarbmirza)
